@@ -1,0 +1,20 @@
+{
+  "name": "rob.addis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "docker": "^1.0.0",
+    "mysql": "^2.18.1",
+    "ng": "^0.0.0"
+  }
+}
